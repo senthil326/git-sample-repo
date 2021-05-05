@@ -26,3 +26,31 @@ git commit -m
 git status
 git log
 git diff <filename>  
+
+Scenario1:
+First Relase
+second release
+2 features
+2 people
+Thrid Release
+1 feature
+1 people
+
+Sceanrio 2:
+Two People
+
+Person A ->
+ Enhance the framework
+ Person -> Automatng the test cases
+ 
+ Test mnethod -> getName()
+ 
+ Person A- 	Merge code to master
+ person b -> pull from masterto private branch, merge code to master
+ 
+ Scenario 3->
+ 1 person-> two different features
+ work on different branches
+ 
+ 
+ ------------------Master---------Release-----------------Master--------------------Master----------------------Release -------------------------------Master---------------------
