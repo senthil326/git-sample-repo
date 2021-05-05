@@ -7,7 +7,7 @@ for (int i = 0; i < length; i++){
 }
 return sb.toString();
 }
-
+return sb.toString();return sb.toString();
 
 string filename = getRandomString(10)+".png";
 string directory = system.getproperty("user.dir") + "//screenshots//";
