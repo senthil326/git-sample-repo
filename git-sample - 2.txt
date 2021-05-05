@@ -1,3 +1,12 @@
+Scenario1:
+First Relase
+second release
+2 features
+2 people
+Thrid Release
+1 feature
+1 people
+
 public static String getRandomString(int length){
 Stringbuilder sb = new Stringbuilder();
 String characters = "kjdsanhdskagjashglkajsd";
