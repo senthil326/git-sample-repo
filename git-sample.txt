@@ -13,3 +13,16 @@ string filename = getRandomString(10)+".png";
 string directory = system.getproperty("user.dir") + "//screenshots//";
 file sourcefile = ((TakesScreenshot)driver).getscreenshots(outputtype.file);
 fileutils.copyfile(sourcefile,new File(directory + filename));
+
+
+git status -> print sthe status of the repository
+git init->
+git config --global user.name "my sample git repo" 
+git config --global user.email 
+git config user.name "my sample git repo"
+git config user.email
+git add
+git commit -m
+git status
+git log
+git diff <filename>  
